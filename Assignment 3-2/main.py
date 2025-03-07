@@ -2,8 +2,8 @@
 #Input:  Interactive
 #Output: Accept or Reject
 
-testScoreString = input("Enter the test score: 80")
-classRankString = input("Enter the class rank:60")
+testScoreString = input("Enter the test score: ")
+classRankString = input("Enter the class rank: ")
 
 # Step 2: Convert the inputs to integers
 testScore = int(testScoreString)
